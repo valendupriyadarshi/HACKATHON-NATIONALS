@@ -1,0 +1,27 @@
+HACKATHONNATIONALS  PROBLEM STATEMENT   
+ so here is the hackathon prolem statement which i told you earlier 
+the "start-up" launchepad
+THE OPPORTUNITY 
+we live in an age where innovation is democratized .anyone ca have a world changingh idea,and millions of peoples posses the micro-skills , p[assions ,or spare time to help those to life .the barrier etween "founder" and "supporter"is ready to dissolved.
+REQUIRED FEATURES:
+A.The "venture" directory (discovery and details ):
+The gallery:the landing page must be a visual grid displaying active startups.Each card shows the logo ,startup name ,and area of work (e.g. "fintech","green energy").
+the deep dive :when a user clicks a card,it expands into detailed "venture profile".
+ identity:display the founder's bio and the vision statement.
+open post: a dedicated section listing current6 needs -weather iot's a " vaccancy " for a co-founder or a specific "pronlem " they need solving (e.g. "need feedback on this UI").
+B.THE "momentum"(update and activity):
+the feed wall: a dynamic social feed showing real-time actions from the startups .It's not just for announcement ; it's for dail progress( e.g. "just finished our first prototype", pivoting our market strategy "). create specialized badges for different stages of start  up. this page must have comment and like features for each post
+AI moderator: in feed ,there is a high risk og bullying ,abbusive language,or inappropriate post or comments. integrate a text -analysis AI that can scans every bost before it is published 
+HOW IT SHOULD WORK :
+1.INPUT:a user types a status updat e:"rohan is a loser and fails every exam ".
+2.AI ANALYSIS (sentiment and toxicity check): the system runs the text through a sentiment analysis engine (like textblob etc ).
+3.THE TRIGGER: 
+a.) if sentiment score is negative (e.g. , -0.8)or if it detects toxic keywords,the app blocks the post immediately
+b.) usrer feedback:the app displays a warning :"hold on! This post looks inappropriate ."
+4. THE "'GOOD" PATH: if the students type "congratulations rohan!"(positive score), the post is publishe instantly.
+c.ROLE-BASED REGISTRATION AND AUTHENTICATION:
+SIGN UP LOGIC: the application must start with a securre login /sign up page
+THE ROLES: it must support two distinct user roles:
+talent:
+founder/admin: 
+profile/management : user shoul dbe able to set profile picture and basic details 
