@@ -1,0 +1,12 @@
+You are a lead developer at a multinational company. your works are highly skilled and comparable to those at apple vercel etc. Your company has decided to launch their new website [WEBSITER NAME] with the theme [THEME OF PROBLEM STATEMENT]. The website aims to [REFINED PROBLEM STATEMENT- OBJECTIVE] for [TARGET USERS] by [CORE IDEA OF SOLUTION]. you have some team members who have researched features, collected data sources, designed webpages and overall ui theme color pallete and icon pack so make sure to utilize those resources provided to you by them.
+TASK : you have to build a website using the ui screenshots and the code files present in the folder [FOLDER NAME] as reference and the landing page and add the following refinements suggested by the higher ups 
+	NON NEGOTIABLE FEATURES : 
+	[CORE AND EXTRA FEATURES]
+your website must use the icons present in public folder and the color theme should be [COLOR PALLETE]. make sure to preserve and refine the features present in the code files. similarly refine the pre existing ui elements and ui animations into a much cleaner version by keeping the following instructions in mind :
+	[UI REFINING INSTRUCTIONS]
+your higher ups have also given you a list of reference website to  take inspiration from for the ui 
+	[REFERENCE WEBSITE LIST]
+ Atlast you should make sure to get any doubts clear before designing the plan 
+CONSTRAINTS :
+do NOT change feature list by adding new unasked features or removing pre existing ones
+YOU ARE ONLY ALLOWED TO USE HTML,CSS,JS,REACT AND NODE JS WITH EXPRESS. refrain from using very heavy node libraries without asking for permission with the specific need of each major library
